@@ -1,6 +1,6 @@
 {
   "name": "@farmerconnect/eslint-config-ts",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "Ruleset of ESLint for Typescript projects used across farmer connect",
   "main": "index.js",
   "scripts": {
