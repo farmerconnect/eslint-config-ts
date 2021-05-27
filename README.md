@@ -6,6 +6,7 @@ ESLint and Prettier rulesets used across projects in farmer connect.
 
 ```
 yarn add @farmerconnect/eslint-config-ts
+npx install-peerdeps --dev @farmerconnect/eslint-config-ts
 ```
 
 # How to use
