@@ -1,3 +1,3 @@
 module.exports = {
-  ...require("@company/prettier-config")
+  ...require("@farmerconnect/prettier-config")
 }

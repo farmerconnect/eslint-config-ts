@@ -1,6 +1,6 @@
 {
   "name": "@farmerconnect/eslint-config-ts",
-  "version": "1.2.0",
+  "version": "1.3.0",
   "description": "Ruleset of ESLint for Typescript projects used across farmer connect",
   "main": "index.js",
   "scripts": {
@@ -36,6 +36,7 @@
     "prettier": "^2.3.0"
   },
   "devDependencies": {
+    "@farmerconnect/prettier-config": "^1.1.0",
     "@typescript-eslint/eslint-plugin": "^4.24.0",
     "@typescript-eslint/parser": "^4.24.0",
     "eslint": "^7.27.0",
